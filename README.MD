@@ -1,7 +1,9 @@
-[![Library Status](https://github.com/Crowdstar/crypt/workflows/Unit%20Tests/badge.svg)](https://github.com/Crowdstar/crypt/actions)
-[![Latest Stable Version](https://poser.pugx.org/Crowdstar/crypt/v/stable.svg)](https://packagist.org/packages/crowdstar/crypt)
-[![Latest Unstable Version](https://poser.pugx.org/Crowdstar/crypt/v/unstable.svg)](https://packagist.org/packages/crowdstar/crypt)
-[![License](https://poser.pugx.org/Crowdstar/crypt/license.svg)](https://packagist.org/packages/crowdstar/crypt)
+[![Latest Stable Version](http://poser.pugx.org/nsp-team/crypt-tool/v)](https://packagist.org/packages/nsp-team/crypt-tool) 
+[![Total Downloads](http://poser.pugx.org/nsp-team/crypt-tool/downloads)](https://packagist.org/packages/nsp-team/crypt-tool) 
+[![Latest Unstable Version](http://poser.pugx.org/nsp-team/crypt-tool/v/unstable)](https://packagist.org/packages/nsp-team/crypt-tool) 
+[![License](http://poser.pugx.org/nsp-team/crypt-tool/license)](https://packagist.org/packages/nsp-team/crypt-tool) 
+[![PHP Version Require](http://poser.pugx.org/nsp-team/crypt-tool/require/php)](https://packagist.org/packages/nsp-team/crypt-tool)
+
 
 
 # Summary
@@ -11,7 +13,7 @@ crypt包为phpseclib AES-128库创建了一个简单的接口。它的接口允�
 # Installation
 
 ```bash
-composer require crowdstar/crypt:~2.0.0
+composer require nsp-team/crypt-tool:~1.0.0
 ```
 
 # Usage
